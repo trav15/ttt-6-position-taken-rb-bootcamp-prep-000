@@ -2,5 +2,6 @@
 
 def position_taken?(board, char)
   if board[char] == " "
+    false
   end
 end
